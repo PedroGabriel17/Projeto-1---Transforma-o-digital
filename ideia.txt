@@ -1,0 +1,1 @@
+A pessoa vai passar o produto em um QuickScan, a qual tera por objetivo guardar as informações dos produtos no carrinho, dessa forma,
